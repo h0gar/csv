@@ -1,0 +1,11 @@
+{
+	"name": "h0gar/csv",
+	"license": "MIT",
+	"authors": [{
+		"name": "Michel Hognerud",
+		"email": "michel@hognerud.net"
+	}],
+	"autoload": {
+		"psr-4": {"H0gar\\Csv\\": "."}
+	}
+}
